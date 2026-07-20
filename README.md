@@ -1,2 +1,2 @@
-# forum-spring-rest
-Projeto criado durante o curso de REST API com Spring Boot da Alura.
+# Spring REST API Forum
+Project created during the Alura REST API with Spring Boot course.
